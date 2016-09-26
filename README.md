@@ -57,7 +57,7 @@ C:\> python escalate.py all
 ```
 ## Additional features?
 
-Plese make a pull request if you want to add addition features!
+Plese make a pull request if you want to add additional features!
 
 ### The End
 
