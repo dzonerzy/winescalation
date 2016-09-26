@@ -3,8 +3,8 @@ This is a Python based module for fast checking of common vulnerabilities affect
 
 ## How to use?
 The usage is trivial
-
-> C:\> python escalate.py all
+```
+C:\> python escalate.py all
 [INFO] Found named pipe //./pipe\lsass
 [INFO] Found named pipe //./pipe\protected_storage
 [INFO] Found named pipe //./pipe\ntsvcs
@@ -54,3 +54,4 @@ The usage is trivial
 [VULN] Elevated process WVSScheduler.exe with pid 1740 on port 8183 TCP
 >     [INFO] Port 8183 (WVSScheduler.exe) won't answer to dummy packet
 [VULN] Process viritsvc.exe may be VULNERABLE we have write permission on C:\VEXPLite
+```
