@@ -55,3 +55,11 @@ C:\> python escalate.py all
 >     [INFO] Port 8183 (WVSScheduler.exe) won't answer to dummy packet
 [VULN] Process viritsvc.exe may be VULNERABLE we have write permission on C:\VEXPLite
 ```
+## Additional features?
+
+Plese make a pull request if you want to add addition features!
+
+### The End
+
+Bye!
+\#dzonerzy
